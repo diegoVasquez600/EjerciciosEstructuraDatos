@@ -8,6 +8,7 @@ namespace EjerciosPracticaUno.Models
 {
     public partial class Persona
     {
-
+        public string[] Nombres { get; set; }
+        public float[] Altura { get; set; }
     }
 }
