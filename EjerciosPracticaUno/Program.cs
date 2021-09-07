@@ -36,8 +36,6 @@ namespace EjerciosPracticaUno
                 var num = int.Parse(Console.ReadLine());
                 ejercicioRecursividad.Calcular(num);
             }
-
-
             else
                 Console.WriteLine("Ingresa una opcion Valida por favor. \n");
         }
